@@ -41,7 +41,7 @@
     "@types/express-useragent": "^1.0.0",
     "@types/koa": "^2.11.0",
     "@types/supertest": "^2.0.8",
-    "@typescript-eslint/eslint-plugin": "^2.17.0",
+    "@typescript-eslint/eslint-plugin": "^2.20.0",
     "@typescript-eslint/eslint-plugin-tslint": "^2.17.0",
     "@typescript-eslint/parser": "^2.17.0",
     "ava": "^2.4.0",
